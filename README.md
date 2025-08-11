@@ -1,5 +1,3 @@
-# Jenkins-Master-Slave-
-Jenkins Master &amp; Slave 
 🚀 Hands-on Practice: Jenkins Master & Slave Setup with Web Application Deployment
 Today, I explored Jenkins Master-Slave architecture and successfully deployed a web application on the slave server.
 Here’s what I practiced:
